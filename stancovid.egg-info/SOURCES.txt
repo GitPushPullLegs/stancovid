@@ -1,0 +1,9 @@
+README.md
+setup.py
+stancovid/__init__.py
+stancovid/client.py
+stancovid.egg-info/PKG-INFO
+stancovid.egg-info/SOURCES.txt
+stancovid.egg-info/dependency_links.txt
+stancovid.egg-info/requires.txt
+stancovid.egg-info/top_level.txt
